@@ -3,12 +3,13 @@
 - 🌱 I’m currently learning Web/App Development
 - 📫 HUST の学生
 
+### ⚙️ &nbsp;GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phuc111004&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc111004&layout=compact)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuc111004)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Phuc111004)](https://git.io/streak-stats)
 <!--
 **Phuc111004/Phuc111004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
