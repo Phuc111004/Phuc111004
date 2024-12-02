@@ -7,7 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc111004&layout=compact)
 
-<p><img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Phuc111004&" alt="Phuc111004" /></p>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuc111004)
+
 <!--
 **Phuc111004/Phuc111004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
