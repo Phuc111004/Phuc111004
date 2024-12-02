@@ -1,5 +1,13 @@
 ## Hi there 👋
+-  I’m NguyenHongPhuc - フックです
+- 🌱 I’m currently learning Web/App Development
+- 📫 HUST の学生
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phuc111004&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc111004&layout=compact)
+
+<p><img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Phuc111004&" alt="Phuc111004" /></p>
 <!--
 **Phuc111004/Phuc111004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
